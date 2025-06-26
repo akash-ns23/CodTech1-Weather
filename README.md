@@ -20,7 +20,6 @@ MENTOR: NEELA SANTOSH
 
 ## Files Included
 - `CodTech_Task1_Weather_Visualization.py` – Python script that fetches and visualizes weather data.
-- `weather_dashboard.png output` – Output bar chart showing Temperature, Humidity, and Wind Speed.
 - `README.md` – Documentation for setup and usage.
 
 ## How to Run
@@ -38,10 +37,6 @@ api_key = "709a67e33a5309f69704f4975321f793"
 bash
 
 python CodTech_Task1_Weather_Visualization.py
-
-4. Output:
-
-The image weather_dashboard.png output will be generated in the same directory.
 
 OUTPUT:
 
