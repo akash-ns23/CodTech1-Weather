@@ -1,10 +1,16 @@
 # CodTech1-Weather
 CodTech Internship Task 1-API Integration and Data Visualization
+
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: AKASH N S 
+
 INTEN ID: CT04DG2388
+
 DOMAIN: PYTHON
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
 
 ## Tools Used
