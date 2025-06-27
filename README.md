@@ -34,8 +34,6 @@ api_key = "709a67e33a5309f69704f4975321f793"
 
 3. Run the script:
 
-bash
-
 python CodTech_Task1_Weather_Visualization.py
 
 OUTPUT:
